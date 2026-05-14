@@ -1,5 +1,3 @@
-Complete Overview- 
-
 
 # RAG System with Observability
 
