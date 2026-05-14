@@ -1,5 +1,5 @@
 Complete Overview- 
-https://deepwiki.com/Gourab-18/rag_observability
+
 
 # RAG System with Observability
 
